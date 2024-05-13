@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:layout_margin="10dp">
+  <ImageView
+    android:id="@+id/float_ball"
+    android:layout_width="46dp"
+    android:layout_height="46dp"
+    android:layout_margin="10dp"
+    android:background="@drawable/background_cron"
+    android:padding="12dp"
+    android:alpha="0.9"
+    android:elevation="10dp"
+    android:src="@drawable/link"
+    android:tint="@color/onCardBackground" tools:ignore="UseAppTint"
+  />
+</FrameLayout>

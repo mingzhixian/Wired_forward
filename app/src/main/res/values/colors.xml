@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <!-- 主色彩 -->
+  <color name="background">#F3F4F6</color>
+  <color name="onBackground">#242424</color>
+  <color name="onBackgroundSecond">#636564</color>
+  <color name="cardBackground">#FFFFFF</color>
+  <color name="onCardBackground">#000000</color>
+  <color name="onCardBackgroundSecond">#696969</color>
+
+  <!-- 特殊色彩 -->
+  <color name="button">#2E2E2E</color>
+  <color name="onButton">#E0E0E0</color>
+  <color name="alert">#ca5357</color>
+  <color name="onAlert">#ded8d8</color>
+  <color name="ok">#a0cc74</color>
+
+  <color name="processBarBackground">#9a9a9a</color>
+
+  <!-- 控制页面色彩 -->
+  <color name="controlBackground">#000000</color>
+  <color name="controlOnBackground">#F3F4F6</color>
+  <color name="controlCardBackground">#3b3b3b</color>
+  <color name="controlOnCardBackground">#FFFFFF</color>
+  <color name="controlOnCardBackgroundSecond">#F3F4F6</color>
+  <color name="controlCronStoke">#c6c6c6</color>
+  <color name="controlNetworkOk">#99CC66</color>
+  <color name="controlNetworkFail">#FF6666</color>
+</resources>
